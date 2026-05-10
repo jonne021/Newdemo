@@ -8,7 +8,7 @@
 
 name: Upload Python Package
 
-于:
+and:
   release:
     types: [published]
 
